@@ -1,20 +1,14 @@
-// Import the functions you need from the SDKs you need
-import { initializeApp } from "firebase/app";
-// TODO: Add SDKs for Firebase products that you want to use
-// https://firebase.google.com/docs/web/setup#available-libraries
-
-// Your web app's Firebase configuration
 const firebaseConfig = {
   apiKey: "AIzaSyA2JoTgjKb-MpFJgBjFbkHhXk9UgCq8S2E",
   authDomain: "twitterfake-6fa35.firebaseapp.com",
+  databaseURL: "https://twitterfake-6fa35-default-rtdb.firebaseio.com",
   projectId: "twitterfake-6fa35",
   storageBucket: "twitterfake-6fa35.appspot.com",
   messagingSenderId: "203611270407",
-  appId: "1:203611270407:web:cc8b5159861adeaf1169a2"
+  appId: "1:203611270407:web:282645d6f3ea412b1169a2"
 };
 
-// Initialize Firebase
-const app = initializeApp(firebaseConfig);
+    firebase.initializeApp(firebaseConfig);
 
    function addUser() {
 
