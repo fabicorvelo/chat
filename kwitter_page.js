@@ -1,14 +1,14 @@
 //LINKS DO SEU APP FIREBASE
 
 const firebaseConfig = {
-      apiKey: "AIzaSyCryow5GDMc9P1BS4bmy8qY52yUR-5Z_wY",
-      authDomain: "redesocial-4501a.firebaseapp.com",
-      databaseURL: "https://redesocial-4501a-default-rtdb.firebaseio.com",
-      projectId: "redesocial-4501a",
-      storageBucket: "redesocial-4501a.appspot.com",
-      messagingSenderId: "250194306472",
-      appId: "1:250194306472:web:16a287c6092f459821e99d"
-    };
+  apiKey: "AIzaSyD3ZgJ4uxytSF9zbRlKH-OsL1r8QtNBF0k",
+  authDomain: "redesocial-70e77.firebaseapp.com",
+  databaseURL: "https://redesocial-70e77-default-rtdb.firebaseio.com",
+  projectId: "redesocial-70e77",
+  storageBucket: "redesocial-70e77.appspot.com",
+  messagingSenderId: "751902812611",
+  appId: "1:751902812611:web:5f73cb7fac3f5d6582b576"
+};
     
     
 
