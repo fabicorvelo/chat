@@ -1,11 +1,11 @@
 const firebaseConfig = {
-  apiKey: "AIzaSyA2JoTgjKb-MpFJgBjFbkHhXk9UgCq8S2E",
-  authDomain: "twitterfake-6fa35.firebaseapp.com",
-  databaseURL: "https://twitterfake-6fa35-default-rtdb.firebaseio.com",
-  projectId: "twitterfake-6fa35",
-  storageBucket: "twitterfake-6fa35.appspot.com",
-  messagingSenderId: "203611270407",
-  appId: "1:203611270407:web:282645d6f3ea412b1169a2"
+  apiKey: "AIzaSyDcE4uNlHtfqQY-LwurO8x2jCa3C1tPX0c",
+  authDomain: "bate-papo-3f5c4.firebaseapp.com",
+  projectId: "bate-papo-3f5c4",
+  storageBucket: "bate-papo-3f5c4.appspot.com",
+  messagingSenderId: "733397642001",
+  appId: "1:733397642001:web:6a66932444ac80c70d3ab0",
+  measurementId: "G-V6SCXWVQWE"
 };
 
     firebase.initializeApp(firebaseConfig);
