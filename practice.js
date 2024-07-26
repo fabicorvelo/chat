@@ -1,5 +1,6 @@
 
 //ADICIONE OS LINKS DO SEU APP FIREBASE
+const firebaseConfig = {
   apiKey: "AIzaSyDcE4uNlHtfqQY-LwurO8x2jCa3C1tPX0c",
   authDomain: "bate-papo-3f5c4.firebaseapp.com",
   projectId: "bate-papo-3f5c4",
