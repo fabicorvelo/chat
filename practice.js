@@ -1,13 +1,12 @@
 
 //ADICIONE OS LINKS DO SEU APP FIREBASE
-const firebaseConfig = {
-  apiKey: "AIzaSyCryow5GDMc9P1BS4bmy8qY52yUR-5Z_wY",
-  authDomain: "redesocial-4501a.firebaseapp.com",
-  databaseURL: "https://redesocial-4501a-default-rtdb.firebaseio.com",
-  projectId: "redesocial-4501a",
-  storageBucket: "redesocial-4501a.appspot.com",
-  messagingSenderId: "250194306472",
-  appId: "1:250194306472:web:16a287c6092f459821e99d"
+  apiKey: "AIzaSyDcE4uNlHtfqQY-LwurO8x2jCa3C1tPX0c",
+  authDomain: "bate-papo-3f5c4.firebaseapp.com",
+  projectId: "bate-papo-3f5c4",
+  storageBucket: "bate-papo-3f5c4.appspot.com",
+  messagingSenderId: "733397642001",
+  appId: "1:733397642001:web:6a66932444ac80c70d3ab0",
+  measurementId: "G-V6SCXWVQWE"
 };
 
 
